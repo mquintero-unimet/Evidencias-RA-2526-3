@@ -1,0 +1,20 @@
+A1,CocaC,Coca-Cola Classic,1.1,8
+B1,Pepsi,Pepsi Cola,1.1,12
+C1,Fanta,Fanta Naranja,1.2,8
+D1,Malta,Malta Regional,1.0,5
+A2,Chint,Chinotto,1.1,17
+B2,SvnUp,7Up,1.2,15
+C2,Aguak,Agua,1.0,17
+D2,PowrA,Powerade,1.5,2
+A3,Nevada,Nevada,0.7,9
+B3,Pepsi,Pepsi,1.1,7
+C3,PepsL,Pepsi_ligth,1.1,5
+D3,PepsiZ,Pepsi_cero,1.1,5
+A4,Goldn,Golden,1.1,11
+C4,Malta,Malta,1.0,3
+B4,Gator,Gatorade,1.5,6
+D4,Minalba,Minalba,0.65,15
+A5,Ruffl,Ruffles,2.0,7
+B5,Dorit,Doritos,2.25,10
+C5,Lays,Lays,1.5,9
+D5,Platn,Platnitos,0.75,12
