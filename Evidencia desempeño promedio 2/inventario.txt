@@ -1,0 +1,15 @@
+A1,CocaC,10
+B1,Pepsi,10
+C1,Fanta,10
+D1,Malta,10
+A2,Chint,10
+B2,SvnUp,10
+C2,Goldn,10
+A3,Ruffl,10
+B3,Dorit,10
+C3,Cheet,10
+D3,Yuqts,10
+A4,Savoy,10
+B4,Hrshy,10
+B5,Abcts,10
+C5,Fruty,10
